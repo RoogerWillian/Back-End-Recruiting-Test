@@ -1,6 +1,4 @@
-[TOC]
-
- Applications developeds for a recruiting test.
+#Applications developeds for a recruiting test.
 
 ## API Specification of technologies used
 
